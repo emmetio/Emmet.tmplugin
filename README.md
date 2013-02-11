@@ -8,7 +8,7 @@ Clone project into `~/Library/Application Support/TextMate/PlugIns/` and restart
 
 or
 
-1. [Download](/emmetio/Emmet.tmplugin/archive/master.zip) plugin.
+1. [Download](https://github.com/emmetio/Emmet.tmplugin/archive/master.zip) plugin.
 2. Unpack it.
 3. Rename extracted folder to `Emmet.tmplugin`.
 4. Double-click on `Emmet.tmplugin` to install.

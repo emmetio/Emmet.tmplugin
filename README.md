@@ -1,8 +1,10 @@
-# Emmet plugin for TextMate 1.x editor #
+# Emmet plugin for TextMate editor #
 
 **This plugin is automatically generated from [Emmet Objective-C](https://github.com/emmetio/emmet-objc) project. Please do not provide any pull requests here.**
 
 ## How to install ##
+
+*This plugin supports both TextMate 1 and 2 versions.*
 
 Clone project into `~/Library/Application Support/TextMate/PlugIns/` and restart TextMate.
 

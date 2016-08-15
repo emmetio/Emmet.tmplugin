@@ -1,7 +1,5 @@
 # Deprecated: this plugin works for TextMate 1 and OSX < 10.9. A newer version that works with OSX 10.9+ and TextMate 2 is available [here](https://github.com/emmetio/textmate2/).
 
----
-
 ## How to install ##
 
 *This plugin supports both TextMate 1 and 2 versions.*

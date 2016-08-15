@@ -1,6 +1,6 @@
-# Emmet plugin for TextMate editor #
+# Deprecated: this plugin works for TextMate 1 and OSX < 10.9. A newer version that works with OSX 10.9+ and TextMate 2 is available [here](https://github.com/emmetio/textmate2/).
 
-**This plugin is automatically generated from [Emmet Objective-C](https://github.com/emmetio/emmet-objc) project. Please do not provide any pull requests here.**
+---
 
 ## How to install ##
 
